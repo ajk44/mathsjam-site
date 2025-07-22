@@ -19,9 +19,11 @@ hiatus_months:
     - 2020-03
     - 2024-12
     - 2025-01
+jam_date_rule: second-last wednesday
 changed_dates:
     - 2018-12-18
     - 2025-05-21
+    - 2025-09-24
 links:
     twitter:
         text: '@CAMMathsJam'
